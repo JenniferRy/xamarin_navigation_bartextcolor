@@ -17,7 +17,7 @@ namespace BarTextColor
 			};
 
 			var button = new Button{
-				Text = "button"
+				Text = "Klick me for next Page"
 			};
 
 			button.Clicked += (sender, e) => { 
