@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Droid\BarTextColor.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.de25b640" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BarTextColor\RootPage.cs">
+    <Files>
+      <File FileName="BarTextColor\App.cs" Line="1" Column="1" />
+      <File FileName="BarTextColor\RootPage.cs" Line="38" Column="38" />
+      <File FileName="BarTextColor\NextClass.xaml" Line="1" Column="1" />
+      <File FileName="BarTextColor\NextClass.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

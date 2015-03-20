@@ -1,0 +1,9 @@
+C:\Users\j.rydlichowski\Documents\Projects\bartextcolor_example\BarTextColor\BarTextColor\bin\Debug\BarTextColor.dll
+C:\Users\j.rydlichowski\Documents\Projects\bartextcolor_example\BarTextColor\BarTextColor\bin\Debug\BarTextColor.pdb
+C:\Users\j.rydlichowski\Documents\Projects\bartextcolor_example\BarTextColor\BarTextColor\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\j.rydlichowski\Documents\Projects\bartextcolor_example\BarTextColor\BarTextColor\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\j.rydlichowski\Documents\Projects\bartextcolor_example\BarTextColor\BarTextColor\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\j.rydlichowski\Documents\Projects\bartextcolor_example\BarTextColor\BarTextColor\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\j.rydlichowski\Documents\Projects\bartextcolor_example\BarTextColor\BarTextColor\obj\Debug\NextClass.xaml.g.cs
+C:\Users\j.rydlichowski\Documents\Projects\bartextcolor_example\BarTextColor\BarTextColor\obj\Debug\BarTextColor.dll
+C:\Users\j.rydlichowski\Documents\Projects\bartextcolor_example\BarTextColor\BarTextColor\obj\Debug\BarTextColor.pdb
